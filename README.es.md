@@ -18,8 +18,8 @@ a) Abrir este enlace con Gitpod en tu navegador: https://gitpod.io#https://githu
 b) Clonar este repositorio localmente en tu computador:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-unit-test-with-jest.git
-```
-💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+```git re
+💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`mote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 Luego sigue las siguientes instrucciones:
 
